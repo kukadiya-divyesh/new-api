@@ -12,7 +12,7 @@
           "banner": "",
           "link": "https://sportsleading.online/live/stream_e1.m3u8",
           "web": "https://sportsleading.online/live/stream_e1.m3u8",
-          "isRedirect": true
+          "isRedirect": false
         },
         {
           "name": "Link 2 (Assured)",
