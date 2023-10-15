@@ -11,14 +11,14 @@
           "name": "Link 1 (English)",
           "banner": "",
           "link": "https://sportsleading.online/live/stream_e1.m3u8",
-          "web": "https://sportsleading.online/live/stream_e1.m3u8",
+          "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
           "isRedirect": false
         },
         {
           "name": "Link 2 (Assured)",
           "banner": "",
           "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+          "web": "https://player.twitch.tv/?channel=sports3193&height=400&parent=livesportsstreaming.live&referrer=https%3A%2F%2Flivesportsstreaming.live%2Fstar-sports1-hindi-hd%2F&width=1000",
           "isRedirect": false
         },
         {
