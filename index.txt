@@ -2,41 +2,6 @@
   "league_name": "Sports Channel",
   "banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
   "match": [
-  {
-      "match_name": "AUS vs SL (16 Oct)",
-      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-australia-vs-sri-lanka-icc-mens-cwc-2023-0-2023-8-23-t-20-55-23.jpg",
-      "tv_name": "",
-      "urls": [
-        {
-          "name": "Link 1 (English)",
-          "banner": "",
-          "link": "https://sportsleading.online/live/stream_e1.m3u8",
-          "web": "https://sportsleading.online/live/stream_e1.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 2 (Assured)",
-          "banner": "",
-          "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Premium Link",
-          "banner": "",
-          "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 3",
-          "banner": "",
-          "link": "https://sportsleading.online/live/stream_e1.m3u8",
-          "web": "https://sportsleading.online/live/stream_e1.m3u8",
-          "isRedirect": false
-        }
-      ]
-    },
     {
       "match_name": "SA vs NED (17 Oct)",
       "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-south-africa-vs-netherlands-icc-mens-cwc-2023-0-2023-8-23-t-21-43-59.jpg",
@@ -45,29 +10,29 @@
         {
           "name": "Link 1 (English)",
           "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+          "link": https://sportsleading.online/live/stream_e1.m3u8",
           "web": "https://sportsleading.online/live/stream_e1.m3u8",
           "isRedirect": false
         },
         {
           "name": "Link 2 (Assured)",
           "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e2.m3u8",
+          "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+          "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
           "isRedirect": false
         },
         {
           "name": "Premium Link",
           "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e2.m3u8",
+          "link": "https://sportsleading.online/live/stream_e1.m3u8",
+          "web": "https://sportsleading.online/live/stream_e1.m3u8",
           "isRedirect": false
         },
         {
           "name": "Link 3",
           "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e3.m3u8",
+          "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+          "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
           "isRedirect": false
         }
       ]
