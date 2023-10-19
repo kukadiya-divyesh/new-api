@@ -2,9 +2,10 @@
   "league_name": "Sports Channel",
   "banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
   "match": [
+   
     {
-      "match_name": "NZ vs AFG (18 Oct)",
-      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-new-zealand-vs-afghanistan-icc-mens-cwc-2023-0-2023-8-23-t-21-52-30.jpg",
+      "match_name": "IND vs BAN (19 Oct)",
+      "banner": "https://i0.wp.com/ticketsearch.in/wp-content/uploads/2023/09/ind-vs-ban-tickets-1.webp?fit=1200%2C675&ssl=1",
       "tv_name": "",
       "urls": [
         {
@@ -33,41 +34,6 @@
           "banner": "",
           "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
           "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "isRedirect": false
-        }
-      ]
-    },
-    {
-      "match_name": "IND vs BAN (19 Oct)",
-      "banner": "https://i0.wp.com/ticketsearch.in/wp-content/uploads/2023/09/ind-vs-ban-tickets-1.webp?fit=1200%2C675&ssl=1",
-      "tv_name": "",
-      "urls": [
-        {
-          "name": "Link 1 (English)",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e1.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 2 (Assured)",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e2.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Premium Link",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e2.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 3",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e3.m3u8",
           "isRedirect": false
         }
       ]
