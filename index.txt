@@ -4,8 +4,8 @@
   "match": [
    
     {
-      "match_name": "NED vs SL (21 Oct)",
-      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-netherlands-vs-sri-lanka-icc-mens-cwc-2023-0-2023-8-23-t-21-4-51.jpg",
+      "match_name": "IND vs NZ (22 Oct)",
+      "banner": "https://ticketsearch.in/wp-content/uploads/2023/09/ind-vs-nz-world-cup-tickets.webp",
       "tv_name": "",
       "urls": [
         {
@@ -34,76 +34,6 @@
           "banner": "",
           "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
           "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "isRedirect": false
-        }
-      ]
-    },
-    {
-      "match_name": "ENG vs SA (21 Oct)",
-      "banner": "https://ticketnews.in/wp-content/uploads/2023/09/ENG-vs-SA.webp",
-      "tv_name": "",
-      "urls": [
-        {
-          "name": "Link 1 (English)",
-          "banner": "",
-          "link": "https://sportsleading.online/live/stream_e3.m3u8",
-          "web": "https://sportsleading.online/live/stream_e3.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 2 (Assured)",
-          "banner": "",
-          "link": "https://sportsleading.online/live/stream_e3.m3u8",
-          "web": "https://sportsleading.online/live/stream_e3.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Premium Link",
-          "banner": "",
-          "link": "https://sportsleading.online/live/stream_e3.m3u8",
-          "web": "https://sportsleading.online/live/stream_e3.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 3",
-          "banner": "",
-           "link": "https://sportsleading.online/live/stream_e3.m3u8",
-          "web": "https://sportsleading.online/live/stream_e3.m3u8",
-          "isRedirect": false
-        }
-      ]
-    },
-    {
-      "match_name": "IND vs NZ (22 Oct)",
-      "banner": "https://ticketsearch.in/wp-content/uploads/2023/09/ind-vs-nz-world-cup-tickets.webp",
-      "tv_name": "",
-      "urls": [
-        {
-          "name": "Link 1 (English)",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e1.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 2 (Assured)",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e2.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Premium Link",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e2.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 3",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e3.m3u8",
           "isRedirect": false
         }
       ]
