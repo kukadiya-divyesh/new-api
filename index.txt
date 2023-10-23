@@ -2,8 +2,12 @@
   "league_name": "Sports Channel",
   "banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
   "match": [
-   
     {
+      "match_name": "PAK vs AFG (23 Oct)",
+      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-pakistan-vs-afghanistan-icc-mens-cwc-2023-0-2023-8-23-t-21-55-9.jpg",
+      "tv_name": "",
+      "urls": [
+        {
       "match_name": "IND vs NZ (22 Oct)",
       "banner": "https://ticketsearch.in/wp-content/uploads/2023/09/ind-vs-nz-world-cup-tickets.webp",
       "tv_name": "",
@@ -34,41 +38,6 @@
           "banner": "",
           "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
           "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "isRedirect": false
-        }
-      ]
-    },
-    {
-      "match_name": "PAK vs AFG (23 Oct)",
-      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-pakistan-vs-afghanistan-icc-mens-cwc-2023-0-2023-8-23-t-21-55-9.jpg",
-      "tv_name": "",
-      "urls": [
-        {
-          "name": "Link 1 (English)",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e1.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 2 (Assured)",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e2.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Premium Link",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e2.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 3",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e3.m3u8",
           "isRedirect": false
         }
       ]
