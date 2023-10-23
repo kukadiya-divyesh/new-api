@@ -8,11 +8,7 @@
       "tv_name": "",
       "urls": [
         {
-      "match_name": "IND vs NZ (22 Oct)",
-      "banner": "https://ticketsearch.in/wp-content/uploads/2023/09/ind-vs-nz-world-cup-tickets.webp",
-      "tv_name": "",
-      "urls": [
-        {
+      
           "name": "Link 1 (English)",
           "banner": "",
             "link": "https://sportsleading.online/live/stream_e1.m3u8",
