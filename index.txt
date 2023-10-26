@@ -2,42 +2,7 @@
   "league_name": "Sports Channel",
   "banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
   "match": [
-{
-      "match_name": "AUS vs NED (25 Oct)",
-      "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00367573-lmwrpfwhzu-landscape.jpg",
-      "tv_name": "",
-      "urls": [
-       {
-      
-          "name": "Link 1 (English)",
-          "banner": "",
-            "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 2 (Assured)",
-          "banner": "",
-        "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Premium Link",
-          "banner": "",
-           "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 3",
-          "banner": "",
-          "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
-          "isRedirect": false
-        }
-      ]
-    },
+
     {
       "match_name": "ENG vs SL (26 Oct)",
       "banner": "https://ticketnews.in/wp-content/uploads/2023/09/ENG-vs-SL.webp",
