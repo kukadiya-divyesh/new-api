@@ -12,29 +12,29 @@
       
           "name": "Link 1 (English)",
           "banner": "",
-            "link": "https://astro.cric-streamiing.repl.co",
-          "web": "https://astro.cric-streamiing.repl.co",
+            "link": "https://astro.cric-streamiing.repl.co/",
+          "web": "https://astro.cric-streamiing.repl.co/",
           "isRedirect": false
         },
         {
           "name": "Link 2 (Assured)",
           "banner": "",
-       "link": "https://astro.cric-streamiing.repl.co",
-          "web": "https://astro.cric-streamiing.repl.co",
+    "link": "https://astro.cric-streamiing.repl.co/",
+          "web": "https://astro.cric-streamiing.repl.co/",
           "isRedirect": false
         },
         {
           "name": "Premium Link",
           "banner": "",
-          "link": "https://astro.cric-streamiing.repl.co",
-          "web": "https://astro.cric-streamiing.repl.co",
+          "link": "https://astro.cric-streamiing.repl.co/",
+          "web": "https://astro.cric-streamiing.repl.co/",
           "isRedirect": false
         },
         {
           "name": "Link 3",
           "banner": "",
-         "link": "https://astro.cric-streamiing.repl.co",
-          "web": "https://astro.cric-streamiing.repl.co",
+         "link": "https://astro.cric-streamiing.repl.co/",
+          "web": "https://astro.cric-streamiing.repl.co/",
           "isRedirect": false
         }
       ]
