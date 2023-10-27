@@ -33,7 +33,7 @@
         {
           "name": "Link 3",
           "banner": "",
-         link": "https://willow.cric-streamiing.repl.co/",
+         "link": "https://willow.cric-streamiing.repl.co/",
           "web": "https://willow.cric-streamiing.repl.co/",
           "isRedirect": false
         }
