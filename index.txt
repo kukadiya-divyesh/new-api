@@ -19,8 +19,8 @@
         {
           "name": "Link 2 (Assured)",
           "banner": "",
-    "link": "https://astro.cric-streamiing.repl.co/",
-          "web": "https://astro.cric-streamiing.repl.co/",
+          "link": "https://willow.cric-streamiing.repl.co/",
+          "web": "https://willow.cric-streamiing.repl.co/",
           "isRedirect": false
         },
         {
@@ -33,8 +33,8 @@
         {
           "name": "Link 3",
           "banner": "",
-         "link": "https://astro.cric-streamiing.repl.co/",
-          "web": "https://astro.cric-streamiing.repl.co/",
+         link": "https://willow.cric-streamiing.repl.co/",
+          "web": "https://willow.cric-streamiing.repl.co/",
           "isRedirect": false
         }
       ]
