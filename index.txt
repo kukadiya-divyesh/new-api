@@ -41,7 +41,7 @@
     {
       "match_name": "NED vs BAN (28 Oct)",
       "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-netherlands-vs-bangladesh-icc-mens-cwc-2023-0-2023-8-23-t-21-22-50.jpg",
-      "tv_name": "",
+      "tv_name": "fan_code",
       "urls": [
         {
           "name": "Link 1 (English)",
