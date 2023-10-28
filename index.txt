@@ -5,7 +5,7 @@
     {
       "match_name": "AUS vs NZ (28 Oct)",
       "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-australia-vs-new-zealand-icc-mens-cwc-2023-0-2023-8-23-t-21-47-45.jpg",
-      "tv_name": "",
+      "tv_name": "fan_code",
       "urls": [
          {
       
