@@ -12,28 +12,28 @@
           "name": "Link 1 (English)",
           "banner": "",
             "link": "https://play.google.com/store/apps/details?id=com.livescore.crickettv.cricketteam",
-          "web": "https://play.google.com/store/apps/details?id=com.live.tv.score",
+          "web": "https://play.google.com/store/apps/details?id=com.livetv.livescore.match",
           "isRedirect": true
         },
         {
           "name": "Link 2 (Assured)",
           "banner": "",
           "link": "https://play.google.com/store/apps/details?id=com.livescore.crickettv.cricketteam",
-          "web": "https://play.google.com/store/apps/details?id=com.livetv.livescore.match",
+          "web": "https://play.google.com/store/apps/details?id=com.live.tv.score",
           "isRedirect": true
         },
         {
           "name": "Premium Link",
           "banner": "",
           "link": "https://play.google.com/store/apps/details?id=com.livescore.crickettv.cricketteam",
-          "web": "https://play.google.com/store/apps/details?id=com.live.tv.score",
+          "web": "hhttps://play.google.com/store/apps/details?id=com.livetv.livescore.match",
           "isRedirect": true
         },
         {
           "name": "Link 3",
           "banner": "",
          "link": "https://play.google.com/store/apps/details?id=com.livescore.crickettv.cricketteam",
-          "web": "hhttps://play.google.com/store/apps/details?id=com.livetv.livescore.match",
+          "web": "https://play.google.com/store/apps/details?id=com.live.tv.score",
           "isRedirect": true
         }
       ]
