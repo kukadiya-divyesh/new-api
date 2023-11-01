@@ -3,8 +3,8 @@
   "banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
   "match": [
     {
-       "match_name": "PAK vs BAN (31 Oct)",
-      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-pakistan-vs-bangladesh-icc-mens-cwc-2023-0-2023-8-23-t-21-27-5.jpg",
+       "match_name": "NZ vs SA (31 Oct)",
+      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-new-zealand-vs-south-africa-icc-mens-cwc-2023-0-2023-8-23-t-20-22-18.jpg",
       "tv_name": "fan_code",
       "urls": [
          {
