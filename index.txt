@@ -2,12 +2,7 @@
   "league_name": "Sports Channel",
   "banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
   "match": [
-    {
-       "match_name": "PAK vs NZ (4 NOV)",
-      "banner": "{
-  "league_name": "Sports Channel",
-  "banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
-  "match": [
+   
     {
       "match_name": "PAK vs NZ (4 NOV)",
       "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-new-zealand-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-24-30.jpg",
