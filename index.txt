@@ -3,8 +3,8 @@
     "banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
     "match": [
         {
-            "match_name": "PAK vs NZ (4 NOV)",
-            "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-new-zealand-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-24-30.jpg",
+            "match_name": "IND vs SA (5 NOV)",
+            "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-india-vs-south-africa-icc-mens-cwc-2023-0-2023-8-28-t-9-5-11.jpg",
             "tv_name": "fan_code",
             "urls": [
                 {
@@ -18,49 +18,14 @@
                     "name": "Link 2 (Assured)",
                     "banner": "",
                     "link": "https://astro.cric-streamiing.repl.co/",
-                    "web": "https://astro.cricstreamingg.repl.co/",
+                    "web": "https://hls.streambtw.com/live/stream_e1.m3u8",
                     "isRedirect": false
                 },
                 {
                     "name": "Premium Link",
                     "banner": "",
                     "link": "https://astro.cric-streamiing.repl.co/",
-                    "web": "https://astro.cricstreamingg.repl.co/",
-                    "isRedirect": false
-                },
-                {
-                    "name": "Link 3",
-                    "banner": "",
-                    "link": "https://astro.cric-streamiing.repl.co/",
                     "web": "https://hls.streambtw.com/live/stream_e1.m3u8",
-                    "isRedirect": false
-                }
-            ]
-        },
-  {
-            "match_name": "ENG vs AUS (4 NOV)",
-            "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-england-vs-australia-icc-mens-cwc-2023-0-2023-8-23-t-22-38-30.jpg",
-            "tv_name": "fan_code",
-            "urls": [
-                {
-                    "name": "Link 1 (English)",
-                    "banner": "",
-                    "link": "https://astro.cric-streamiing.repl.co/",
-                    "web": "https://hls.streambtw.com/live/stream_e1.m3u8",
-                    "isRedirect": false
-                },
-                {
-                    "name": "Link 2 (Assured)",
-                    "banner": "",
-                    "link": "https://astro.cric-streamiing.repl.co/",
-                    "web": "https://skysports.cricstreamingg.repl.co/",
-                    "isRedirect": false
-                },
-                {
-                    "name": "Premium Link",
-                    "banner": "",
-                    "link": "https://astro.cric-streamiing.repl.co/",
-                    "web": "https://skysports.cricstreamingg.repl.co/",
                     "isRedirect": false
                 },
                 {
@@ -73,8 +38,8 @@
             ]
         },
         {
-            "match_name": "PAK vs NZ (4 NOV)",
-            "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-new-zealand-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-24-30.jpg",
+            "match_name": "IND vs SA (5 NOV)",
+            "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-india-vs-south-africa-icc-mens-cwc-2023-0-2023-8-28-t-9-5-11.jpg",
             "tv_name": "fan_code",
             "urls": [
                 {
